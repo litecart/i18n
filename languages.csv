@@ -1,17 +1,17 @@
-name,code,code2,system_locale,charset,date_raw_format,time_raw_format,datetime_raw_format,date_format,time_format,datetime_format,decimal_point,thousands_sep
-English,en,eng,en_US.utf8,UTF-8,m/d/y,h:i A,m/d/y h:i A,%b %e %Y,%I:%M %P,%b %e %Y %I:%M %P,.,","
-Svenska,sv,swe,sv_SE.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", 
-Dansk,da,dan,da_DK.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.
-Suomi,fi,fin,fi_FI.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",
-Español,es,spa,es_ES.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.
-Nederlands,nl,nld,nl_NL.utf8,UTF-8,d-m-Y,H:i,d-m-Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.
-Türk,tr,tur,tr_TR.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", 
-Française,fr,fre,fr_FR.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", 
-Indonesia,id,ind,id_ID.utf8,UTF-8,d-m-Y,H:i,d-m-Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",
-Polski,pl,pol,pl_PL.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", 
-中文,zn,zho,zh_CN.utf8,UTF-8,m/d/y,H:i,m/d/y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,","
-русский,ru,rus,ru_RU.utf8,UTF-8,d.m.Y,h:i A,d.m.Y h:i A,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.
-Italiano,it,ita,it_IT.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,","
-Deutsch,de,deu,de_DE.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",","
-ไทย,th,tha,th_TH.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,","
-Hungarian,hu,hun,hu_HU.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,
+name,code,code2,system_locale,charset,date_raw_format,time_raw_format,datetime_raw_format,date_format,time_format,datetime_format,decimal_point,thousands_sep,direction
+English,en,eng,en_US.utf8,UTF-8,m/d/y,h:i A,m/d/y h:i A,%b %e %Y,%I:%M %P,%b %e %Y %I:%M %P,.,",",ltr
+Svenska,sv,swe,sv_SE.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
+Dansk,da,dan,da_DK.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
+Suomi,fi,fin,fi_FI.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",,ltr
+Español,es,spa,es_ES.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
+Nederlands,nl,nld,nl_NL.utf8,UTF-8,d-m-Y,H:i,d-m-Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
+Türk,tr,tur,tr_TR.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
+Française,fr,fre,fr_FR.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
+Indonesia,id,ind,id_ID.utf8,UTF-8,d-m-Y,H:i,d-m-Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",,ltr
+Polski,pl,pol,pl_PL.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
+中文,zn,zho,zh_CN.utf8,UTF-8,m/d/y,H:i,m/d/y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
+русский,ru,rus,ru_RU.utf8,UTF-8,d.m.Y,h:i A,d.m.Y h:i A,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
+Italiano,it,ita,it_IT.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
+Deutsch,de,deu,de_DE.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",",",ltr
+ไทย,th,tha,th_TH.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
+Hungarian,hu,hun,hu_HU.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,,ltr
