@@ -1,166 +1,155 @@
-"name","domestic_name","code","fractions","fraction_unit","symbol","prefix","suffix"
-"United Arab Emirates dirham",,"AED",100,"Fils","د.إ",,
-"Afghan afghani",,"AFN",100,"Pul","؋",,
-"Albanian lek",,"ALL",100,"Qindarkë","L",,
-"Armenian dram",,"AMD",100,"Luma","֏",,
-"Netherlands Antillean guilder",,"ANG",100,"Cent","ƒ",,
-"Angolan kwanza",,"AOA",100,"Cêntimo","Kz",,
-"Argentine peso",,"ARS",100,"Centavo","$",,
-"Australian dollar",,"AUD",100,"Cent","$",,
-"Aruban florin",,"AWG",100,"Cent","ƒ",,
-"Azerbaijani manat",,"AZN",100,"Qəpik","₼",,
-"Bosnia and Herzegovina convertible mark",,"BAM",100,"Fening","KM or КМ",,
-"Barbadian dollar",,"BBD",100,"Cent","$",,
-"Bangladeshi taka",,"BDT",100,"Poisha","৳",,
-"Bulgarian lev",,"BGN",100,"Stotinka","лв.",,
-"Bahraini dinar",,"BHD",1000,"Fils",".د.ب",,
-"Burundian franc",,"BIF",100,"Centime","Fr",,
-"Bermudian dollar",,"BMD",100,"Cent","$",,
-"Brunei dollar",,"BND",100,"Sen","$",,
-"Bolivian boliviano",,"BOB",100,"Centavo","Bs.",,
-"Brazilian real",,"BRL",100,"Centavo","R$",,
-"Bahamian dollar",,"BSD",100,"Cent","$",,
-"Bhutanese ngultrum",,"BTN",100,"Chetrum","Nu.",,
-"Botswana pula",,"BWP",100,"Thebe","P",,
-"Belarusian ruble",,"BYN",100,"Kapyeyka","Br",,
-"Belize dollar",,"BZD",100,"Cent","$",,
-"Canadian dollar",,"CAD",100,"Cent","$",,
-"Congolese franc",,"CDF",100,"Centime","Fr",,
-"Swiss franc",,"CHF",100,"Centime","Fr.",,
-"Cook Islands dollar",,"CKD",100,"Cent","$",,
-"Chilean peso",,"CLP",100,"Centavo","$",,
-"Chinese yuan",,"CNY",10,"Jiao","¥ or 元",,
-"Colombian peso",,"COP",100,"Centavo","$",,
-"Costa Rican colón",,"CRC",100,"Céntimo","₡",,
-"Cuban convertible peso",,"CUC",100,"Centavo","$",,
-"Cuban peso",,"CUP",100,"Centavo","$",,
-"Cape Verdean escudo",,"CVE",100,"Centavo","Esc or $",,
-"Czech koruna",,"CZK",100,"Haléř","Kč",,
-"Djiboutian franc",,"DJF",100,"Centime","Fr",,
-"Danish krone",,"DKK",100,"Øre","kr",,
-"Dominican peso",,"DOP",100,"Centavo","$",,
-"Algerian dinar",,"DZD",100,"Santeem","د.ج",,
-"Egyptian pound",,"EGP",100,"Piastre","£ or ج.م",,
-"Eritrean nakfa",,"ERN",100,"Cent","Nfk",,
-"Ethiopian birr",,"ETB",100,"Santim","Br",,
-"Euro",,"EUR",100,"Cent","€",,
-"Fijian dollar",,"FJD",100,"Cent","$",,
-"Falkland Islands pound",,"FKP",100,"Penny","£",,
-"Faroese króna",,"FOK",100,"Oyra","kr",,
-"British pound",,"GBP",100,"Penny","£",,
-"Georgian lari",,"GEL",100,"Tetri","₾",,
-"Guernsey pound",,"GGP",100,"Penny","£",,
-"Ghanaian cedi",,"GHS",100,"Pesewa","₵",,
-"Gibraltar pound",,"GIP",100,"Penny","£",,
-"Gambian dalasi",,"GMD",100,"Butut","D",,
-"Guinean franc",,"GNF",100,"Centime","Fr",,
-"Guatemalan quetzal",,"GTQ",100,"Centavo","Q",,
-"Guyanese dollar",,"GYD",100,"Cent","$",,
-"Hong Kong dollar",,"HKD",100,"Cent","$",,
-"Honduran lempira",,"HNL",100,"Centavo","L",,
-"Croatian kuna",,"HRK",100,"Lipa","kn",,
-"Haitian gourde",,"HTG",100,"Centime","G",,
-"Hungarian forint",,"HUF",100,"Fillér","Ft",,
-"Indonesian rupiah",,"IDR",100,"Sen","Rp",,
-"Israeli new shekel",,"ILS",100,"Agora","₪",,
-"Manx pound",,"IMP",100,"Penny","£",,
-"Indian rupee",,"INR",100,"Paisa","₹",,
-"Iraqi dinar",,"IQD",1000,"Fils","ع.د",,
-"Iranian rial",,"IRR",100,"Geran","﷼",,
-"Icelandic króna",,"ISK",100,"Eyrir","kr",,
-"Jersey pound",,"JEP",100,"Penny","£",,
-"Jamaican dollar",,"JMD",100,"Cent","$",,
-"Jordanian dinar",,"JOD",100,"Piastre","د.ا",,
-"Japanese yen",,"JPY",100,"Sen","¥ or 円",,
-"Kenyan shilling",,"KES",100,"Cent","Sh",,
-"Kyrgyzstani som",,"KGS",100,"Tyiyn","с",,
-"Cambodian riel",,"KHR",100,"Sen","៛",,
-"Kiribati dollar",,"KID",100,"Cent","$",,
-"Comorian franc",,"KMF",100,"Centime","Fr",,
-"North Korean won",,"KPW",100,"Chon","₩",,
-"South Korean won",,"KRW",100,"Jeon","₩",,
-"Kuwaiti dinar",,"KWD",1000,"Fils","د.ك",,
-"Cayman Islands dollar",,"KYD",100,"Cent","$",,
-"Kazakhstani tenge",,"KZT",100,"Tıyn","₸",,
-"Lao kip",,"LAK",100,"Att","₭",,
-"Lebanese pound",,"LBP",100,"Piastre","ل.ل",,
-"Sri Lankan rupee",,"LKR",100,"Cent","Rs",,
-"Liberian dollar",,"LRD",100,"Cent","$",,
-"Lesotho loti",,"LSL",100,"Sente","L",,
-"Libyan dinar",,"LYD",1000,"Dirham","ل.د",,
-"Moroccan dirham",,"MAD",100,"Centime","د. م.",,
-"Moldovan leu",,"MDL",100,"Ban","L",,
-"Malagasy ariary",,"MGA",5,"Iraimbilanja","Ar",,
-"Macedonian denar",,"MKD",100,"Deni","ден",,
-"Burmese kyat",,"MMK",100,"Pya","Ks",,
-"Mongolian tögrög",,"MNT",100,"Möngö","₮",,
-"Macanese pataca",,"MOP",100,"Avo","P",,
-"Mauritanian ouguiya",,"MRU",5,"Khoums","UM",,
-"Mauritian rupee",,"MUR",100,"Cent","₨",,
-"Maldivian rufiyaa",,"MVR",100,"Laari",".ރ",,
-"Malawian kwacha",,"MWK",100,"Tambala","MK",,
-"Mexican peso",,"MXN",100,"Centavo","$",,
-"Malaysian ringgit",,"MYR",100,"Sen","RM",,
-"Mozambican metical",,"MZN",100,"Centavo","MT",,
-"Namibian dollar",,"NAD",100,"Cent","$",,
-"Nigerian naira",,"NGN",100,"Kobo","₦",,
-"Nicaraguan córdoba",,"NIO",100,"Centavo","C$",,
-"Norwegian krone",,"NOK",100,"Øre","kr",,
-"Nepalese rupee",,"NPR",100,"Paisa","रू",,
-"New Zealand dollar",,"NZD",100,"Cent","$",,
-"Omani rial",,"OMR",1000,"Baisa","ر.ع.",,
-"Panamanian balboa",,"PAB",100,"Centésimo","B/.",,
-"Peruvian sol",,"PEN",100,"Céntimo","S/.",,
-"Papua New Guinean kina",,"PGK",100,"Toea","K",,
-"Philippine peso",,"PHP",100,"Sentimo","₱",,
-"Pakistani rupee",,"PKR",100,"Paisa","₨",,
-"Polish złoty",,"PLN",100,"Grosz","zł",,
-"Pitcairn Islands dollar",,"PND",100,"Cent","$",,
-"Transnistrian ruble",,"PRB",100,"Kopek","р.",,
-"Paraguayan guaraní",,"PYG",100,"Céntimo","₲",,
-"Qatari riyal",,"QAR",100,"Dirham","ر.ق",,
-"Romanian leu",,"RON",100,"Ban","lei",,
-"Serbian dinar",,"RSD",100,"Para","дин. or din.",,
-"Russian ruble",,"RUB",100,"Kopek","₽",,
-"Rwandan franc",,"RWF",100,"Centime","Fr",,
-"Saudi riyal",,"SAR",100,"Halala","ر.س",,
-"Solomon Islands dollar",,"SBD",100,"Cent","$",,
-"Seychellois rupee",,"SCR",100,"Cent","₨",,
-"Sudanese pound",,"SDG",100,"Piastre","ج.س.",,
-"Swedish krona",,"SEK",100,"Öre","kr",,
-"Singapore dollar",,"SGD",100,"Cent","$",,
-"Saint Helena pound",,"SHP",100,"Penny","£",,
-"Sierra Leonean leone",,"SLL",100,"Cent","Le",,
-"Somaliland shilling",,"SLS",100,"Cent","Sl",,
-"Somali shilling",,"SOS",100,"Cent","Sh",,
-"Surinamese dollar",,"SRD",100,"Cent","$",,
-"South Sudanese pound",,"SSP",100,"Piaster","£",,
-"São Tomé and Príncipe dobra",,"STN",100,"Cêntimo","Db",,
-"Syrian pound",,"SYP",100,"Piastre","£ or ل.س",,
-"Swazi lilangeni",,"SZL",100,"Cent","L",,
-"Thai baht",,"THB",100,"Satang","฿",,
-"Tajikistani somoni",,"TJS",100,"Diram","ЅМ",,
-"Turkmenistan manat",,"TMT",100,"Tennesi","m",,
-"Tunisian dinar",,"TND",1000,"Millime","د.ت",,
-"Tongan paʻanga",,"TOP",100,"Seniti","T$",,
-"Turkish lira",,"TRY",100,"Kuruş","₺",,
-"Trinidad and Tobago dollar",,"TTD",100,"Cent","$",,
-"Tuvaluan dollar",,"TVD",100,"Cent","$",,
-"New Taiwan dollar",,"TWD",100,"Cent","$",,
-"Tanzanian shilling",,"TZS",100,"Cent","Sh",,
-"Ukrainian hryvnia",,"UAH",100,"Kopiyka","₴",,
-"Ugandan shilling",,"UGX",100,"Cent","Sh",,
-"United States dollar",,"USD",100,"Cent","$",,
-"Uruguayan peso",,"UYU",100,"Centésimo","$",,
-"Uzbekistani soʻm",,"UZS",100,"Tiyin","so'm or сўм",,
-"Venezuelan bolívar soberano",,"VES",100,"Céntimo","Bs.S. or Bs.",,
-"Vietnamese đồng",,"VND",10,"Hào[R]","₫",,
-"Vanuatu vatu",,"VUV",0,,"Vt",,
-"Samoan tālā",,"WST",100,"Sene","T",,
-"Central African CFA franc",,"XAF",100,"Centime","Fr",,
-"Eastern Caribbean dollar",,"XCD",100,"Cent","$",,
-"West African CFA franc",,"XOF",100,"Centime","Fr",,
-"CFP franc",,"XPF",100,"Centime","₣",,
-"Yemeni rial",,"YER",100,"Fils","ر.ي",,
-"South African rand",,"ZAR",100,"Cent","R",,
-"Zambian kwacha",,"ZMW",100,"Ngwee","ZK",,
+"name","code","number","decimals","prefix","suffix"
+"Afghan afghani","AFN","971","2","؋",""
+"Albanian lek","ALL","008","2","L ",""
+"Algerian dinar","DZD","012","2","د.ج ",""
+"Angolan kwanza","AOA","973","2","Kz ",""
+"Argentine peso","ARS","032","2","$ ",""
+"Armenian dram","AMD","051","2","֏ ",""
+"Aruban florin","AWG","533","2","ƒ ",""
+"Australian dollar","AUD","036","2","$ ",""
+"Azerbaijani manat","AZN","944","2","₼ ",""
+"Bahamian dollar","BSD","044","2","$ ",""
+"Bahraini dinar","BHD","048","3",".د.ب ",""
+"Bangladeshi taka","BDT","050","2","৳ ",""
+"Barbadian dollar","BBD","052","2","$ ",""
+"Belarusian ruble","BYN","974","2","Br ",""
+"Belize dollar","BZD","084","2","$ ",""
+"Bermudian dollar","BMD","060","2","$ ",""
+"Bhutanese ngultrum","BTN","064","2","Nu. ",""
+"Bolivian boliviano","BOB","068","2","Bs. ",""
+"Bosnia and Herzegovina convertib","BAM","977","2","КМ ",""
+"Botswana pula","BWP","072","2","P ",""
+"Brazilian real","BRL","986","2","R$ ",""
+"British pound","GBP","826","2","£",""
+"Brunei dollar","BND","096","2","$ ",""
+"Bulgarian lev","BGN","975","2","лв. ",""
+"Burmese kyat","MMK","104","2","Ks ",""
+"Burundian franc","BIF","108","0","Fr ",""
+"Cambodian riel","KHR","116","2","៛ ",""
+"Canadian dollar","CAD","124","2","$ ",""
+"Cape Verdean escudo","CVE","132","2","$ ",""
+"Cayman Islands dollar","KYD","136","2","$ ",""
+"Central African CFA franc","XAF","950","0","Fr ",""
+"CFP franc","XPF","953","0","₣ ",""
+"Chilean peso","CLP","152","0","$ ",""
+"Chinese yuan","CNY","156","2","¥ ",""
+"Colombian peso","COP","170","2","$ ",""
+"Comorian franc","KMF","174","0","Fr ",""
+"Congolese franc","CDF","976","2","Fr ",""
+"Costa Rican colón","CRC","188","2","₡ ",""
+"Croatian kuna","HRK","191","2","kn ",""
+"Cuban peso","CUP","192","2","$ ",""
+"Czech koruna","CZK","203","2",""," Kč"
+"Danish krone","DKK","208","2","kr. ",""
+"Djiboutian franc","DJF","262","0","Fr ",""
+"Dominican peso","DOP","214","2","$ ",""
+"Eastern Caribbean dollar","XCD","951","2","$ ",""
+"Egyptian pound","EGP","818","2","E£ ",""
+"Eritrean nakfa","ERN","232","2","Nfk ",""
+"Ethiopian birr","ETB","230","2","Br ",""
+"Euro","EUR","978","2","€",""
+"Falkland Islands pound","FKP","238","2","£ ",""
+"Fijian dollar","FJD","242","2","$ ",""
+"Gambian dalasi","GMD","270","2","D ",""
+"Georgian lari","GEL","981","2","₾ ",""
+"Ghanaian cedi","GHS","936","2","₵ ",""
+"Gibraltar pound","GIP","292","2","£",""
+"Guatemalan quetzal","GTQ","320","2","Q ",""
+"Guinean franc","GNF","324","0","Fr ",""
+"Guyanese dollar","GYD","328","2","$ ",""
+"Haitian gourde","HTG","332","2","G ",""
+"Honduran lempira","HNL","340","2","L ",""
+"Hong Kong dollar","HKD","344","2","HK$ ",""
+"Hungarian forint","HUF","348","2",""," Ft"
+"Icelandic króna","ISK","352","0","kr ",""
+"Indian rupee","INR","356","2","₹ ",""
+"Indonesian rupiah","IDR","360","2","Rp ",""
+"Iranian rial","IRR","364","2","﷼ ",""
+"Iraqi dinar","IQD","368","3","ع.د ",""
+"Israeli new shekel","ILS","376","2","₪ ",""
+"Jamaican dollar","JMD","388","2","$ ",""
+"Japanese yen","JPY","392","0","¥ ",""
+"Jordanian dinar","JOD","400","3","د.ا ",""
+"Kazakhstani tenge","KZT","398","2","₸ ",""
+"Kenyan shilling","KES","404","2","Sh ",""
+"Kuwaiti dinar","KWD","414","3","د.ك ",""
+"Kyrgyzstani som","KGS","417","2","с ",""
+"Lao kip","LAK","418","2","₭ ",""
+"Lebanese pound","LBP","422","2","ل.ل ",""
+"Lesotho loti","LSL","426","2","L ",""
+"Liberian dollar","LRD","430","2","$ ",""
+"Libyan dinar","LYD","434","3","ل.د ",""
+"Macanese pataca","MOP","446","2","P ",""
+"Macedonian denar","MKD","807","2","ден ",""
+"Malagasy ariary","MGA","969","0","Ar ",""
+"Malawian kwacha","MWK","454","2","MK ",""
+"Malaysian ringgit","MYR","458","2","RM ",""
+"Maldivian rufiyaa","MVR","462","2",".ރ ",""
+"Mauritanian ouguiya","MRU","929","2","UM ",""
+"Mauritian rupee","MUR","480","2","₨ ",""
+"Mexican peso","MXN","484","2","$ ",""
+"Moldovan leu","MDL","498","2","L ",""
+"Mongolian tögrög","MNT","496","2","₮ ",""
+"Moroccan dirham","MAD","504","2","د. م. ",""
+"Mozambican metical","MZN","943","0","MT ",""
+"Namibian dollar","NAD","516","2","$ ",""
+"Nepalese rupee","NPR","524","2","रू ",""
+"Netherlands Antillean guilder","ANG","532","2","ƒ ",""
+"New Taiwan dollar","TWD","901","2","$ ",""
+"New Zealand dollar","NZD","554","2","$ ",""
+"Nicaraguan córdoba","NIO","558","2","C$ ",""
+"Nigerian naira","NGN","566","2","₦ ",""
+"North Korean won","KPW","408","2","₩ ",""
+"Norwegian krone","NOK","578","2","kr ",""
+"Omani rial","OMR","512","3","ر.ع. ",""
+"Pakistani rupee","PKR","586","2","₨ ",""
+"Panamanian balboa","PAB","590","2","B/. ",""
+"Papua New Guinean kina","PGK","598","2","K ",""
+"Paraguayan guaraní","PYG","600","0","₲ ",""
+"Peruvian sol","PEN","604","2","S/. ",""
+"Philippine peso","PHP","608","2","₱ ",""
+"Polish złoty","PLN","985","2",""," zł"
+"Qatari riyal","QAR","634","2","ر.ق ",""
+"Romanian leu","RON","946","2","lei ",""
+"Russian ruble","RUB","643","2",""," p."
+"Rwandan franc","RWF","646","0","Fr ",""
+"Saint Helena pound","SHP","654","2","£ ",""
+"Samoan tālā","WST","882","2","T ",""
+"São Tomé and Príncipe dobra","STN","678","2","Db ",""
+"Saudi riyal","SAR","682","2","ر.س ",""
+"Serbian dinar","RSD","941","2","дин. ",""
+"Seychellois rupee","SCR","690","2","₨ ",""
+"Sierra Leonean leone","SLL","694","2","Le ",""
+"Singapore dollar","SGD","702","2","$ ",""
+"Solomon Islands dollar","SBD","090","2","$ ",""
+"Somali shilling","SOS","706","2","Sh ",""
+"South African rand","ZAR","710","2","R ",""
+"South Korean won","KRW","410","0","₩ ",""
+"South Sudanese pound","SSP","736",\N,"£ ",""
+"Sri Lankan rupee","LKR","144","2","Rs ",""
+"Sudanese pound","SDG","938","2","ج.س. ",""
+"Surinamese dollar","SRD","968","2","$ ",""
+"Swazi lilangeni","SZL","748","2","L ",""
+"Swedish krona","SEK","752","2",""," kr"
+"Swiss franc","CHF","756","2","fr. ",""
+"Syrian pound","SYP","760","2","ل.س ",""
+"Tajikistani somoni","TJS","972","2","ЅМ ",""
+"Tanzanian shilling","TZS","834","2","Sh ",""
+"Thai baht","THB","764","2",""," ฿"
+"Tongan paʻanga","TOP","776","2","T$ ",""
+"Trinidad and Tobago dollar","TTD","780","2","$ ",""
+"Tunisian dinar","TND","788","3","د.ت ",""
+"Turkish lira","TRY","949","2",""," ₺"
+"Turkmenistan manat","TMT","934","2","m ",""
+"Ugandan shilling","UGX","800","0","Sh ",""
+"Ukrainian hryvnia","UAH","980","2","₴ ",""
+"United Arab Emirates dirham","AED","784","2","د.إ",""
+"United States dollar","USD","840","2","$ ",""
+"Uruguayan peso","UYU","858","2","$ ",""
+"Uzbekistani soʻm","UZS","860","2","сўм ",""
+"Vanuatu vatu","VUV","548","0","Vt ",""
+"Venezuelan bolívar soberano","VES","862","2","Bs. ",""
+"Vietnamese đồng","VND","704","2",""," ₫"
+"West African CFA franc","XOF","952","0","Fr ",""
+"Yemeni rial","YER","886","2","ر.ي ",""
+"Zambian kwacha","ZMW","894","2","ZK ",""
