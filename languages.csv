@@ -1,41 +1,41 @@
-name,native,code,code2,system_locale,charset,date_raw_format,time_raw_format,datetime_raw_format,date_format,time_format,datetime_format,decimal_point,thousands_sep,direction
-Arabic,اَلْعَرَبِيَّةُ ,ar,ara,ar_EG.utf8,UTF-8,d/m/Y,h:i A,d/m/Y h:i A,%e %b %Y,%I:%M %P,%e %b %Y %I:%M %P,.,",",rtl
-Bulgarian,български ,bg,bul,bg_BG.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Chinese,中文,zn,zho,zh_CN.utf8,UTF-8,m/d/y,H:i,m/d/y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
-Croatian,Hrvatski ,hr,hrv,hr_HR.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Czech,Čeština,cz,ces,cz_CZ.utf8,UTF-8,d.m.Y,H:i,m.d.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Danish,Dansk,da,dan,da_DK.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-Dutch,Nederlands,nl,nld,nl_NL.utf8,UTF-8,d-m-Y,H:i,d-m-Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-English,English,en,eng,en_US.utf8,UTF-8,m/d/y,h:i A,m/d/y h:i A,%b %e %Y,%I:%M %P,%b %e %Y %I:%M %P,.,",",ltr
-Estonian,Eesti keelt ,et,est,et_EE.itf8,UTF-8,d.m.Y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Finnish,Suomi,fi,fin,fi_FI.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-French,Française,fr,fre,fr_FR.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",  ,ltr
-German,Deutsch,de,deu,de_DE.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",",",ltr
-Greek,ελληνικά ,el,ell,el_GR.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Hebrew,עִבְרִית‎ ,he,heb,he_IL.utf8,UTF-8,d/m/Y,h:i A,d/m/Y h:i A,%e %b %Y,%I:%M %P,%e %b %Y %I:%M %P,.,",",rtl
-Hindi,हिन्दी ,hi,hin,hi_IN.utf8,UTF-8,d/m/Y,h:i A,d/m/Y h:i A,%e %b %Y,%I:%M %P,%e %b %Y %I:%M %P,.,",",ltr
-Hungarian,Hungarian,hu,hun,hu_HU.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Icelandic,Íslenska ,is,isl,is_IS.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Indonesian,Indonesia,id,ind,id_ID.utf8,UTF-8,d-m-Y,H:i,d-m-Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-Italian,Italiano,it,ita,it_IT.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
-Japanese,日本語 ,ja,jpn,ja_JP.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,.,ltr
-Korean,한국어 ,ko,kor,ko_KR.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
-Lao,ລາວ ,lo,lao,lo_LA.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-Latvian,Latviešu  ,lv,lav,lv_LV.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Lithuanian,Lietuvių kalba ,lt,lit,lt_LT.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Macedonian,македонски ,mk,mkd,mk_MK.utf8,UTF-8,d.m.Y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Norwegian,Norsk (Bokmål),nb,nor,nb_NO.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Persian,فارسی ,fa,fas,fa_IR.utf8,UTF-8,Y/m/d,H:i,Y/m/d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",rtl
-Polish,Polski,pl,pol,pl_PL.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-Portuguese,Português,pt,por,pt_PT.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Romanian,Românește ,ro,ron,ro_RO.utf8,UTF-8,d.m.Y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Russian,русский,ru,rus,ru_RU.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Serbian,Srpski ,sr,srp,sr_RS.utf8,UTF-8,d.m.Y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Slovak,Slovenčina ,sk,slk,sk_SK.utf8,UTF-8,d.m.Y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Slovenian,Slovenščina ,sl,slv,sl_SI.utf8,UTF-8,d.m.Y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",,ltr
-Spanish,Español,es,spa,es_ES.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-Swedish,Svenska,sv,swe,sv_SE.utf8,UTF-8,Y-m-d,H:i,Y-m-d H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Thai,ไทย,th,tha,th_TH.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,.,",",ltr
-Turkish,Türk,tr,tur,tr_TR.utf8,UTF-8,d.m.Y,H:i,d.m.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
-Ukrainian,Українська мова ,uk,ukr,uk_UA.utf8,UTF-8,d.m.y,H:i,d.M.Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",", ,ltr
-Vietnamese,Tiếng Việt ,vi,vie,vi_VN.utf8,UTF-8,d/m/Y,H:i,d/m/Y H:i,%e %b %Y,%H:%M,%e %b %Y %H:%M,",",.,ltr
+name,native,code,code2,locale,charset,raw_date,raw_time,date_format,time_format,decimal_point,thousands_sep,direction
+Arabic,اَلْعَرَبِيَّةُ,ar,ara,ar_EG.utf8,UTF-8,d/m/Y,h:i A,%e %b %Y,%I:%M %P,.,",",rtl
+Bulgarian,български,bg,bul,bg_BG.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Chinese,中文,zn,zho,zh_CN.utf8,UTF-8,m/d/y,H:i,%e %b %Y,%H:%M,.,",",ltr
+Croatian,Hrvatski,hr,hrv,hr_HR.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Czech,Čeština,cz,ces,cz_CZ.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Danish,Dansk,da,dan,da_DK.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",",.,ltr
+Dutch,Nederlands,nl,nld,nl_NL.utf8,UTF-8,d-m-Y,H:i,%e %b %Y,%H:%M,",",.,ltr
+English,English,en,eng,en_US.utf8,UTF-8,m/d/y,h:i A,%b %e %Y,%I:%M %P,.,",",ltr
+Estonian,Eesti keelt,et,est,et_EE.itf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Finnish,Suomi,fi,fin,fi_FI.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",", ,ltr
+French,Française,fr,fre,fr_FR.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+German,Deutsch,de,deu,de_DE.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",",",",ltr
+Greek,ελληνικά,el,ell,el_GR.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Hebrew,עִבְרִית,he,heb,he_IL.utf8,UTF-8,d/m/Y,h:i A,%e %b %Y,%I:%M %P,.,",",rtl
+Hindi,हिन्दी,hi,hin,hi_IN.utf8,UTF-8,d/m/Y,h:i A,%e %b %Y,%I:%M %P,.,",",ltr
+Hungarian,Hungarian,hu,hun,hu_HU.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",", ,ltr
+Icelandic,Íslenska,is,isl,is_IS.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Indonesian,Indonesia,id,ind,id_ID.utf8,UTF-8,d-m-Y,H:i,%e %b %Y,%H:%M,",",.,ltr
+Italian,Italiano,it,ita,it_IT.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,.,",",ltr
+Japanese,日本語,ja,jpn,ja_JP.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,.,.,ltr
+Korean,한국어,ko,kor,ko_KR.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,.,",",ltr
+Lao,ລາວ,lo,lao,lo_LA.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",",.,ltr
+Latvian,Latviešu,lv,lav,lv_LV.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Lithuanian,Lietuvių kalba,lt,lit,lt_LT.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",", ,ltr
+Macedonian,македонски,mk,mkd,mk_MK.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Norwegian,Norsk (Bokmål),nb,nor,nb_NO.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Persian,فارسی,fa,fas,fa_IR.utf8,UTF-8,Y/m/d,H:i,%e %b %Y,%H:%M,.,",",rtl
+Polish,Polski,pl,pol,pl_PL.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",",.,ltr
+Portuguese,Português,pt,por,pt_PT.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Romanian,Românește,ro,ron,ro_RO.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Russian,русский,ru,rus,ru_RU.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Serbian,Srpski,sr,srp,sr_RS.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Slovak,Slovenčina,sk,slk,sk_SK.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Slovenian,Slovenščina,sl,slv,sl_SI.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",",,ltr
+Spanish,Español,es,spa,es_ES.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",",.,ltr
+Swedish,Svenska,sv,swe,sv_SE.utf8,UTF-8,Y-m-d,H:i,%e %b %Y,%H:%M,",", ,ltr
+Thai,ไทย,th,tha,th_TH.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,.,",",ltr
+Turkish,Türk,tr,tur,tr_TR.utf8,UTF-8,d.m.Y,H:i,%e %b %Y,%H:%M,",",.,ltr
+Ukrainian,Українська мова,uk,ukr,uk_UA.utf8,UTF-8,d.m.y,H:i,%e %b %Y,%H:%M,",", ,ltr
+Vietnamese,Tiếng Việt,vi,vie,vi_VN.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",",.,ltr
