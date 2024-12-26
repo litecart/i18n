@@ -1,4 +1,5 @@
 name,native,code,code2,locale,charset,raw_date,raw_time,date_format,time_format,decimal_point,thousands_sep,direction
+Afrikaans,Afrikaans,af,afr,af_ZA.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",",.,ltr
 Arabic,اَلْعَرَبِيَّةُ,ar,ara,ar_EG.utf8,UTF-8,d/m/Y,h:i A,%e %b %Y,%I:%M %P,.,",",rtl
 Bengali,বাংলা,bn,ben,bn_BD.utf8,UTF-8,d/m/Y,h:i A,%e %b %Y,%I:%M %P,.,",",ltr
 Bulgarian,български,bg,bul,bg_BG.utf8,UTF-8,d/m/Y,H:i,%e %b %Y,%H:%M,",", ,ltr
